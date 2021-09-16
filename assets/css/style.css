@@ -239,15 +239,15 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #f08080;
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #b0e0e6;
 }
 
 .bg-color--gray {
-  background-color: #e6e6e6;
+  background-color: #f5deb3;
 }
 
 /*********************
@@ -383,8 +383,8 @@ button {
 }
 
 .header__logo {
-  width: 230px;
-  height: 42px;
+  width: 200px;
+  height: 10px;
 }
 
 .header__name {
