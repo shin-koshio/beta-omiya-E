@@ -386,6 +386,10 @@ button {
   width: 200px;
   height: 42px;
 }
+.img.example{
+  width: 200px;
+  height: 42px;
+}
 
 .header__name {
   font-size: 20px;
