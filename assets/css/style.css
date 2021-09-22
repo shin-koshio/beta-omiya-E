@@ -383,9 +383,8 @@ button {
 }
 
 .header__logo {
-  width: 100px;
-  height: 1px;
-  line-height: 1;
+  font-size: 20px;
+  line-height: 1.1;
 }
 
 .header__name {
